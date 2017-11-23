@@ -1,0 +1,5 @@
+TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+
+TSC type script compiler compiles code from type script to java script.
+
+TS provides static typing.
